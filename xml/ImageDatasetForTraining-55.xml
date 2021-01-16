@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ImageDatasetForTraining-55.jpg</filename>
+	<path>C:\Users\jinha\Desktop\object_detection\train\ImageDatasetForTraining-55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chinese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>27</ymin>
+			<xmax>428</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

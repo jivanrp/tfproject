@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ImageDatasetForTraining-57.jpg</filename>
+	<path>C:\Users\jinha\Desktop\object_detection\train\ImageDatasetForTraining-57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>70</ymin>
+			<xmax>253</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
